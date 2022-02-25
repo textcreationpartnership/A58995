@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second part of the boy of Bilson, or, A true and particular relation of the imposter Susanna Fowles wife of John Fowles, of Hammersmith, in the county of Middlesex, who pretended her self to be posses'd with the Devil : giving an exact account of the beginning, progress, conferences, discovery, commitment, confession, &amp;c. of the said imposter / the whole being writ and attested by Robert Howson, clerk, Captain John Ponsey, and Mr. Nicholas Wade, who were frequently with her during the time of her pretended possession, and before whom she made the confession herein contained, as also by a great number of clergy, both conformists and nonconformists mentioned in the following narrative.</title>
+            <author>Howson, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58995</idno>
+            <idno type="STC">Wing S2300</idno>
+            <idno type="STC">ESTC R33732</idno>
+            <idno type="EEBO-CITATION">13553328</idno>
+            <idno type="OCLC">ocm 13553328</idno>
+            <idno type="VID">100218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1557:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second part of the boy of Bilson, or, A true and particular relation of the imposter Susanna Fowles wife of John Fowles, of Hammersmith, in the county of Middlesex, who pretended her self to be posses'd with the Devil : giving an exact account of the beginning, progress, conferences, discovery, commitment, confession, &amp;c. of the said imposter / the whole being writ and attested by Robert Howson, clerk, Captain John Ponsey, and Mr. Nicholas Wade, who were frequently with her during the time of her pretended possession, and before whom she made the confession herein contained, as also by a great number of clergy, both conformists and nonconformists mentioned in the following narrative.</title>
+                  <author>Howson, Robert.</author>
+                  <author>Ponsey, John.</author>
+                  <author>Wade, Nicholas.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVIII [1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fowles, Susanna.</term>
+               <term>R. B. --  (Richard Baddeley). --  Boy of Bilson, or, A true discovery of romish priests.</term>
+               <term>Demoniac possession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100218:1"/>
+            <pb facs="tcp:100218:1"/>
+            <p>The Second Part of the Boy of <hi>BILSON:</hi> OR, A True and Particular RELATION OF THE IMPOSTOR, <hi>Suſanna Fowles,</hi> Wife of <hi>John Fowles,</hi> of <hi>Hammerſmith,</hi> in the County of <hi>Middleſex,</hi> who pretended her ſelf to be Poſſeſs'd with the DEVIL.</p>
+            <p>Giving an Exact Account of the <hi>Beginning, Progreſs, Conferences, Diſcovery, Commitment, Confeſſion,</hi> &amp;c. of the ſaid IMPOSTOR.</p>
+            <p>
+               <hi>The Whole being Writ, and Atteſted by</hi> Robert Howſon, <hi>Clerk; Captain</hi> John Bonſey, <hi>and Mr.</hi> Nicholas Wade, <hi>who were frequently with her, during the Time of her Pretended Poſſeſſion, and before whom ſhe made the Confeſſion herein contained; as alſo, by a great number of the Clergy, both Conformiſts, and Nonconformiſts, mentioned in the fol<g ref="char:EOLhyphen"/>lowing Narrative.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed; and are to be ſold by <hi>E. Whitlock,</hi> near <hi>Stationers Hall,</hi> MDCXCVIII.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100218:2" rendition="simple:additions"/>
+            <pb facs="tcp:100218:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THE following Relation ſets before thee a living Inſtance of the Policy of that Grand Deceiver of Mankind, the De<g ref="char:EOLhyphen"/>vil; and I doubt, of thoſe Maſter-workers for his Kingdom, the Jeſuits: For if all Circumſtances occurring in the ſubſequent Narrative, be well weighed and conſidered, there will, I believe, be found ſome probable grounds for ſuch a Conjecture. And therefore I was of Opinion, that I could not do the World better Service, than by ſetting before their Eyes, A True and Faithful Account of this parlous Impoſtor, thereby to give a light into the Tricks and Contrivances of ſuch-like Damnable Deſigns for the future; as alſo by laying open the heinouſneſs of the Sin, to reſtrain the wicked In<g ref="char:EOLhyphen"/>clinations of ſuch as may be in danger to be miſ<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:100218:3"/>
+by the Deluſions of Satan, and for the encou<g ref="char:EOLhyphen"/>raging of all to a hearty Reliance upon the Provi<g ref="char:EOLhyphen"/>dence of Almighty God, who beſt knows what Condition is fitteſt for us.</p>
+            <p>'Tis obſervable, That one chief End of all this kind of Impoſtors, is to get Money, as it was in the Caſe before us, as does appear by her Con<g ref="char:EOLhyphen"/>feſſion; and therefore I do moſt earneſtly exhort all thoſe whoſe Hearts are ſet too much upon the Goods of this World, not to venture upon the leaſt indi<g ref="char:EOLhyphen"/>rect Means to procure the ſame, leaſt the Devil, who, no doubt, will be apt to prompt them on ſtill further, do not at laſt bring them to that State of Inſenſibility, as to dare to attempt the moſt unac<g ref="char:EOLhyphen"/>countable Villainies to compaſs their unjuſt Ends, which will at laſt (without ſincere and hearty Repentance) bring them to their own moſt miſera<g ref="char:EOLhyphen"/>ble Ends, even Eternal Damnation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100218:3"/>
+            <head>The Second Part OF THE Boy of Bilſon: Or, A True and Particular Relation OF THE IMPOSTOR, <hi>Suſannah Fowles.</hi>
+            </head>
+            <p>AMong the many ſtrange and unaccountable Impoſtures that have been Acted upon this great Stage of the World, I cannot meet with any one that will parallel the Caſe before us, unleſs it be the Story of the Boy of <hi>Bilſon,</hi> which, becauſe it was long ſince tranſacted, and is but come to the Knowledge of a few, I will here ſet down by way of Introduction to, and Illu<g ref="char:EOLhyphen"/>ſtration of the following Narrative. The Story was this:</p>
+            <p>
+               <pb n="2" facs="tcp:100218:4"/>In <hi>Stafford-Shire,</hi> at a Town call'd <hi>Bilſon,</hi> was a Boy, whoſe Father, Mother, Neighbours, and many other People, with admiration did abſolutely think <hi>Poſſest with a Devil;</hi> for he had ſtrange, ſudden, violent, diſtorting Fits, that appeared to all the Be<g ref="char:EOLhyphen"/>holders contrary to Nature, and being not full Fifteen Years Old, it could not be imagined that he could be guilty of any Impoſture, and therefore his Caſe was the more Remakable.</p>
+            <p>The <hi>Jeſuits</hi> (the beſt Phyſicians in ſuch Diſtem<g ref="char:EOLhyphen"/>pers) hearing of it, viſited the Boy, Prayed by him, and uſed ſuch other Charms and Exorciſms, as make them admired by ſilly People; giving his Parents good hope of Diſpoſſeſſing him of the <hi>foul Spirit,</hi> by which might palpably be diſcern'd, how much God's Power was expreſt in their Weakneſs; and what Difference there was between the Truth, and Holineſs of the <hi>Catholick Religion,</hi> and the <hi>Hereſie</hi> pro<g ref="char:EOLhyphen"/>feſſed among <hi>Proteſtants.</hi> So that they that heard them (and there were abundance that Reſorted to the Place) took them for very Holy Men.</p>
+            <p>Theſe Caterpillars viſited him often, ſometimes in Private, ſometimes in Company; but this kind of Spirit would not be commanded by them, ſo that they grew almoſt deſperate of the Cure.</p>
+            <p>The Boy in his Fits would rave againſt an Old Woman dwelling near to his Father, intimating, by Signs, and ghaſtly Behaviour, that ſhe had ſent a <hi>Spirit</hi> to torment him, and (when he was out of his Fits) poſitively accuſed her of being a <hi>Witch,</hi> and the Author of all his Miſery. This old Woman
+<pb n="3" facs="tcp:100218:4"/>
+was ſent to the Chancellor of <hi>Litchfield</hi> to be Ex<g ref="char:EOLhyphen"/>amined, and the Boy was brought thither to con<g ref="char:EOLhyphen"/>front her: And having his Back towards her, at her coming into the Room, where the Chancellor was, before ſhe yet entred or appeared, he fell into a moſt bitter Agony, crying out, <hi>Now ſhe comes, now my Tormentor comes!</hi> wreathing and tear<g ref="char:EOLhyphen"/>ing himſelf in ſo horrid a manner, that it did not only breed Amazement, but Pity in the Spectators, there being many with Expectation attending the Iſſue: Which, with ſome other Probabilities, were an Inducement to the Chancellor to ſend the Woman to <hi>Stafford</hi> Gaol.</p>
+            <p>At the next Aſſizes for the County, the Boy and his Parents appear as Witneſſes againſt the <hi>Witch:</hi> The Boy was placed in a conſpicuous part of the Court, with his Face to the Bench, Eying the Judge continually, in a very peaceable and quiet Poſture; and as the Woman was coming in (when the Court thought it impoſſible the Boy ſhould be ſenſible of her Appearance) he fell into a more raging Fit than ever he was Poſſeſt with before; ſo ſtupendiouſly unnatural, that it was deem'd by all that ſaw it, that nothing but a <hi>Diabolical Spirit</hi> could work ſuch horrid Effects. This, thus openly acted, and the Relation of what was done at <hi>Litchfield,</hi> and other like Circumſtances, ſo poſſeſs'd both the Court and Spectators, that the Old Woman (that had no good Reputation among her Neighbours, being of a teſty froward Temper, a Temper incident to Old Age) found few Friends to plead her Cauſe; ſo that
+<pb n="4" facs="tcp:100218:5"/>
+being Indicted for <hi>Witchcraft,</hi> ſhe was found Guilty by the Jury, and Condemned to Die.</p>
+            <p>Dr. <hi>Morton,</hi> Biſhop of <hi>Litchfield,</hi> (happily then on the Bench upon Secular Affairs) hearing that ſome <hi>Romiſh</hi> Prieſts had been tampering with the Boy with their Exorciſms, to the Undevilling of him, and finding little Reaſon produced, why the Witch ſhould uſe the Boy ſo ill, was perſwaded, this might be ſome Trick of the <hi>Jeſuits,</hi> for enhancing the Credit of Miracles; he therefore pray'd the Judge to Re<g ref="char:EOLhyphen"/>prieve the Woman till the next Aſſizes, and he would take the Boy home with him, have him carefully and ſtrictly looked to, not doubting but before that time he ſhould find out the bottom of ſome ſecret and hidden Contrivance. The Judge aſſented to the Biſhop's Requeſt, and ſo the Boy was carried to <hi>Eccleſhall Caſtle,</hi> the Biſhop's Houſe, whither his Fits followed him with a great deal of Violence: for being put out of his Road, (having formerly all ſorts of People come to admire him, and now being more carefully looked to) he grew ſullen, and would not eat ſomerimes in two or three days, ſo that his Belly was almoſt clung, and grown to his Back, and he had a new Swelling about his Throat, which never ap<g ref="char:EOLhyphen"/>peared before; Lay in his Bed ſometimes as it were Senſeleſs; ſometimes ſtaring with his Eyes, and foaming at the Mouth; ſometimes ſtriking thoſe that ſtood near him (his own careful Mother being one, whom he had made all black and blue about the Arms and Breaſts;) never ſpoke but in his Fits, and then a ſtrange Gibberiſh; at other times he only muttered, and made ſigns.</p>
+            <p>
+               <pb n="5" facs="tcp:100218:5"/>The Biſhop viſited him often, ſtriving ſometimes to ſoften him with Gentleneſs, at other times he handled him roughly; but his <hi>Evil Spirit</hi> was not ſo eaſily laid.</p>
+            <p>The Biſhop ſpoke to him one time ſome of the <hi>Greek Teſtament,</hi> to ſee how that would work, and it brought him into his Fits: At another time he uttered ſome Verſes out of the <hi>Greek Poets,</hi> which his Devil was not ſo Learned as to diſtinguiſh; for that put him into a Fit again: ſo that the Biſhop was confirmed that he was an Impoſtor of a moſt pernicious and pertinacious Spirit; but how to con<g ref="char:EOLhyphen"/>jure it out of him was the Difficulty. And finding Words and Menaces made no Impreſſion in him, he fell to Blows; for taking him out of his Bed, and having one to hold him, the Biſhop gave him ſix very ſmart Laſhes with a Rod, which moved the Boy no more than if he had been an inſenſible Stock. They alſo thruſt Needles into his Toes and Fingers, betwixt the Nails, clapt burning Candles to his Eye<g ref="char:EOLhyphen"/>lids, till they ſinged the Hair off, to divert him when he was in his Fits; yet he neither winch'd nor ſtirred; ſo that the Actors were more troubled to execute, than he to ſuffer.</p>
+            <p>In this Condition growing almoſt deſperate, he would make ſigns for Knives, or any other Inſtrument, to do himſelf a Miſchief with, therefore ſtrict Care was taken, and many watchful Eyes ſet over him, to prevent any ſuch Danger. Thus he continued almoſt a quarter of a Year; at laſt his Urine grew ſo black, that the Phyſicians thought Nature had left her uſual Operation, having never found in any Humane Body
+<pb n="6" facs="tcp:100218:6"/>
+ſo much aduſt Matter, to give ſo deep and deadly a Tincture.</p>
+            <p>This ſtruck the good Biſhop very near; for he was certain the Prieſts had been tammering with him, and now, if he ſhould miſcarry under his Hands, thoſe Mint-Maſters of Miſchief would Coin ſuch Scandals againſt him, as might paſs current in the World's Opinion; Therefore he uſed all the means he could poſſible, as well to preſerve him, as to diſcover him: but finding the Boy indure ſo many Tryals with Patience, ſo much Hardſhip and Severity in tender Years, he reſolv'd, if his Water continu'd black, to ſhift the matter no further. To find out which, he ſet a truſty Servant to watch him through a hole that looked into the Chamber, upon the Bed, which the Boy knew not of.</p>
+            <p>The Biſhop going that Morning with his Family to a Lecture, all things were very ſtill in the Houſe, and the Boy finding all quiet, no Noiſe about him, he lifts himſelf up, ſtares, and liſtens, and at length gets out of his Bed, and in the Straw or Mat under it, takes out an Ink-horn, and makes Water in the Chamber-pot through a piece of the Cotton, in his Hand; another little piece of the Cotton he puts between the <hi>Glans</hi> and the <hi>Prepuce,</hi> drawing the Skin over it, and that was for a Reſerve, if he ſhould be forced to make Water when Company was by. Thus having cunningly put himſelf in order, he hides the Ink-horn again, and returns to his Bed.</p>
+            <p>The Man that was appointed to watch him ſeeing all this, diſcovered it to the Biſhop at his coming home, who came to him preſently, and askt him
+<pb n="7" facs="tcp:100218:6"/>
+               <hi>How he did?</hi> he, according to his uſual manner, pointed to his Water, looked ghaſtly on it, and mutter'd out his old howling Tone.</p>
+            <p>The Biſhop that now meant to deal roundly with him, ſaid, <hi>Sirrah, you have Ink in your Bed-ſtraw, which you make uſe of to black your Water, and your Knavery is found out;</hi> and calling in his Man, he took out the Ink-horn where the Boy had hid it; and the Man juſtified, that he ſaw him make Water through the Cotton. Which (with the Biſhop's Threatning to ſend him to the Houſe of Correction) ſtruck the Boy with ſuch a ſudden Terror, that he roſe from his Bed, fell upon his Knees, and humbly beſought the Biſhop to pardon him, and he would diſcover to him the whole Truth. And as he put on his Cloaths, the Biſhop laid open the Grievouſneſs of his Sin, which wrought ſo upon his Spirit, that he melted into Tears, crying to God for Mercy. A very great Alteration! that what he did but coun<g ref="char:EOLhyphen"/>terfeit, the Devil ſo hardned him in, that all the Tor<g ref="char:EOLhyphen"/>ments and Pains inflicted by Man could not produce a Tear, till God that melted the Rock had firſt touched the Heart.</p>
+            <p>Then he Confeſs'd as follows; Namely, That a Pedlar met him when he was going to School, and with many inticing Words perſwaded him to go to Mr. <hi>Gifford</hi>'s Houſe, aſſuring him of good Entertain<g ref="char:EOLhyphen"/>ment; and with his Allurements he went thither with him. There he found four <hi>Romiſh</hi> Prieſts, who gave him Money and many fair Words, promiſing him great matters if he would be conformable to their Inſtructions.</p>
+            <p>
+               <pb n="8" facs="tcp:100218:7"/>They were three days in teaching him how to demean himſelf; and after he was well tutored, and had practiſed his Tricks there privately, then they ſent him home to his Father (who thought he had been loſt, and was much troubled for him) to ex<g ref="char:EOLhyphen"/>erciſe them in a more publick way. He came home in a very diſtracted manner, to the Amazement of his Parents, and in a ſhort time drew much Com<g ref="char:EOLhyphen"/>pany to viſit him; and his Parents being Poor got Money from many Charitable People, which did incourage him to perſiſt in that way. But when the Rumour of his being <hi>Poſſeſſed with an Evil Spirit</hi> was ſufficiently bruited abroad, the Prieſts came to diſpoſſeſs him; but he found ſo much Sweetneſs in the Eaſe, and Profit of that Life, that he would not be diſ-inchanted by them, though they charm'd never ſo cruelly; for they beat him, and pincht him, and uſed him very hardly to make him deſiſt. Thus were the Deceivers deceived!</p>
+            <p>The Biſhop askt him, <hi>Why he accuſed the poor Old Woman of Witchcraft?</hi> He anſwered, <hi>The Prieſts told him he must lay the Cauſe of his being Poſseſt upon ſome Old Woman, and ſhe being known to him, and of a ſcold<g ref="char:EOLhyphen"/>ing Humour, he fixt it on her.</hi> Then the Biſhop askt him, <hi>How he came to fall into his Fits a little before the Woman appear'd in the Room, both at her Ex<g ref="char:EOLhyphen"/>amination and Arraignment? For the first at Litch<g ref="char:EOLhyphen"/>field,</hi> he ſaid, <hi>he heard ſome about him Mutter,</hi> She is here, <hi>which made him cry out,</hi> She comes, She comes: <hi>And for the ſecond, at</hi> Stafford, <hi>he heard the People remove, and her Chains gingle as ſhe came,
+<pb n="9" facs="tcp:100218:7"/>
+which gave him the ſign.</hi> Laſtly, he was asked <hi>how he made his Throat ſwell?</hi> and he ſhewed, it was <hi>by thruſting his Tongue</hi> (being very long) <hi>down his Throat; which trick he found out himſelf, the reſt were taught him by the Prieſts.</hi> Thus did the Biſhop preſerve an innocent old Woman, condemned by the Law to die; diſcover the abominable Forgeries of the Prieſts, and convert a wicked Boy, whom after<g ref="char:EOLhyphen"/>wards he bound Apprentice, and proved a good Man.</p>
+            <p>I ſhall make no Remarks upon the foregoing Story, but leave the Reader himſelf to compare it with the following Impoſture; which was thus.</p>
+            <div type="part">
+               <pb n="10" facs="tcp:100218:8"/>
+               <head>THE HISTORY OF OUR Preſent Impoſtor.</head>
+               <p>OF all the prodigious Products, either of the Inanimate, Animate, or Rational World, that this monſtrous Age hath produced, the enſuing Inſtance may juſtly challenge the precedency: Wherein the Prince of the Air hath impoſed, not only upon a great Number of Learned and Charitable Chriſtians, both Miniſters and others, of all Perſuaſions, but upon himſelf too, pretending to be where he was not, and to do what he did not in that ſenſe that was pretended, that he might rivet himſelf the faſter in his moral Poſſeſſion, and expoſe the heavenly Religion of the Holy <hi>Jeſus</hi> to the Ridicule and Contempt of a blaſphemous and prophane Age.</p>
+               <p>But in all ſuch Caſes, I humbly conceive, 'tis moſt ſafe to fall forward in being charitably miſtaken, till Obſervation, Pains, and Prayers, with the Bleſ<g ref="char:EOLhyphen"/>ſing of Heaven upon all, ſhall undeceive the miſta<g ref="char:EOLhyphen"/>ken; as it hath done (bleſſed be God's Name) in the enſuing Caſe of <hi>Suſannah Fowles,</hi> Wife of <hi>John
+<pb n="11" facs="tcp:100218:8"/>
+Fowles</hi> of <hi>Hammerſmith,</hi> in the County of <hi>Middleſex,</hi> Labourer, who, about the Age of Twenty years, was in or about <hi>Auguſt</hi> 97, married to the ſaid <hi>John Fowles;</hi> who finding her Fortune to be leſs than ſhe did pretend to, and he did depend upon, it cauſed ſuch Diſcontent between them, as threw her into ſuch unreaſonable and extravagant Paſſions, that ſhe did frequently Imprecate the <hi>Devil to fetch her from him and his Family:</hi>
+               </p>
+               <p>Upon which the Devil ſoon found ſuch Inſtru<g ref="char:EOLhyphen"/>ments, as did not only foment, but heighten the matter to that degree, that ſhe was perſwaded ſhe was poſſeſs'd with the Devil: Which indeed was true, though not in that, yet in a far worſe ſenſe.</p>
+               <p>The Perſon ſhe tells you in her Confeſſion that did firſt perſwade her to feign her ſelf to be poſ<g ref="char:EOLhyphen"/>ſeſſed, was a Relation of hers that did live in <hi>Blooms<g ref="char:EOLhyphen"/>bury,</hi> and, as ſhe believes, a <hi>Roman Catholick.</hi>
+               </p>
+               <p>So that now the World may expect the Second Part of the Boy of <hi>Bilſon,</hi> detected by that Learned and Pious Prelate Dr. <hi>Morton,</hi> then Lord Biſhop of <hi>Coventry</hi> and <hi>Litchfield;</hi> and not without ſome pro<g ref="char:EOLhyphen"/>bable Reaſons for the ſame:</p>
+               <p>For in ſome ſhort time after, a very officious Gentleman, who is call'd by the Name of Dr. <hi>Jour<g ref="char:EOLhyphen"/>dan</hi> of <hi>Brentford,</hi> made her a friendly Viſit, giving her a Spell to hang about her Neck, which he told her would certainly keep out the Devil; which was afterward examin'd, and found to be an Exorciſm, with ſeveral Croſſes, and theſe words <hi>Alpha and Ome<g ref="char:EOLhyphen"/>ga, Immanuel and Jehovah</hi> above and below, and on each ſide, it being drawn in the manner of a Scheme:
+<pb n="12" facs="tcp:100218:9"/>
+Who likewiſe ſtrictly charged her to croſs her ſelf upon the Forehead and Breaſt, not doubting but thereby to effect the Cure: And ſince that, a Doctor of Divinity of this Church, and in this City, hath declared, that the Papiſts did report, that the Work would never be done till their Prieſts came: And ſometime after, a very ingenious young Gentlewo<g ref="char:EOLhyphen"/>man came to my Lodgings, and told me, <hi>That if We of the Church of</hi> England <hi>did not, and the Popiſh Prieſts did caſt the Devil out of this Woman, ſhe did believe that ſhe ſhould be a Proſelyte to their Church:</hi> To whom I anſwer'd, <hi>That before ſhe left ſo good a Church, grounded upon ſo good a Faith, by making our Miniſters a foil to their Prieſts, I did hope ſhe would firſt be ſatisfied whether it was not an Impoſture:</hi> And moreover, <hi>How far one evil Spirit may caſt out ano<g ref="char:EOLhyphen"/>ther, to carry on the common Cauſe of the dark and damned World, would be very well worth her enquiry;</hi> or to that purpoſe: And it was obſerved by a very honeſt Gentleman that ſtood by, that one day, when ſhe was in <hi>Rotten-Row</hi> in <hi>Old-ſtreet,</hi> a Gen<g ref="char:EOLhyphen"/>tlewoman gave her a Wafer in a ſmall piece of Cake, bidding her <hi>to eat that in the Name of Jeſus, that was crucified upon the Croſs.</hi> To which, if you add the Story of the <hi>Portugueſes</hi> with their <hi>hairy Jackets</hi> and <hi>bare Feet,</hi> mention'd in her Confeſſion, we may without breach of Charity conclude, That if theſe Gentlemen were not the Contrivers, they would (if they could) have been the Conjurers.</p>
+               <p>
+                  <pb n="13" facs="tcp:100218:9"/>And now follows the Impoſture it ſelf, which was managed as follows:</p>
+               <p>Firſt by a pretended Apparition, which ſhe ſaith ſhe frequently had; and at laſt was ſo familiar with her, that ſhe call'd him <hi>her Friend Mr. Thomas;</hi> de<g ref="char:EOLhyphen"/>ſcribing him by his ghaſtly Face, and by all the Parts of an humane Body, ſaying (to uſe her own Words) <hi>That his Fingers did hang like the Fingers of a Bartholomew-Baby.</hi>
+               </p>
+               <p>This Mr. <hi>Thomas</hi> at ſeveral times brought ſeveral Papers, to which he did perſwade her to ſubſcribe her Name.</p>
+               <p>
+                  <hi>Monday,</hi> the 17th of <hi>January,</hi> as her Husband ſays, ſhe had a Paper brought with theſe words (ſo legi<g ref="char:EOLhyphen"/>bly writ that he could read them) <hi>I am thy ſervant:</hi> Which ſhe refuſing to ſubſcribe, Mr. <hi>Thomas</hi> made his <hi>Exit</hi> for that time.</p>
+               <figure>
+                  <head>x v m ſ</head>
+               </figure>
+               <p>By the Advice of the worthy and ingenious Gen<g ref="char:EOLhyphen"/>tleman Captain <hi>Bonſey,</hi> my own, and others, in or<g ref="char:EOLhyphen"/>der either to have her diſcovered or recovered, ſhe was brought to <hi>London</hi> about the 17th of <hi>February,</hi> and lodged in an Apartment taken for her in <hi>Rotten-Row</hi> in <hi>Oldſtreet,</hi> having for her Attendance, her Husband, and his Siſter.</p>
+               <p>
+                  <hi>Friday</hi> the 18th, I made my firſt Viſit to her in <hi>Old-ſtreet,</hi> where I found ſeveral, both Men and Wo<g ref="char:EOLhyphen"/>men; ſome admiring, others pitying, and all ſeem<g ref="char:EOLhyphen"/>ingly praying for her; to whom, after ſome ſhort time, I addreſs'd my ſelf, as I and other Miniſters had often done in the Name of the Bleſſed <hi>Jeſus:</hi> At which ſhe pretended to be thrown into ſuch Con<g ref="char:EOLhyphen"/>vulſions and Agonies both of Body and Mind, as did obtain upon the belief of the Beholders, that ſhe
+<pb n="15" facs="tcp:100218:10"/>
+was really poſſeſs'd, or under ſome ſtrange diabolical Influence: out of which (after ſhe had continued in it about a quarter of an hour, without any ſeeming ſenſe either of Body or Mind) ſhe return'd with that compoſedneſs and ſedateneſs of Mind, as if ſhe had been rather with God than the Devil.</p>
+               <p>
+                  <hi>Monday,</hi> the 21ſt of <hi>February,</hi> after having deſi<g ref="char:EOLhyphen"/>red the Learned and Reverend Lecturer of the Pariſh to accompany me, I went the ſecond time, when I found her in the ſame condition as before, with one Mr. <hi>Powel</hi> and Mr. <hi>Burnet,</hi> Diſſenting Miniſters, who had beſtowed ſome time and pains in Prayer with her, and for her, for which ſhe ſeem'd to be very thankful: When to ſtrengthen the Impoſture, ſhe did pretend to diſcover what had been privately diſcours'd by ſome in the Room in reference to her Condition; which ſhe has ſince declared ſhe did by Conjecture only.</p>
+               <p>
+                  <hi>Wedneſday</hi> the 23d, was the third time I ſaw her, being deſired by her Husband to meet one Dr. <hi>Tomp<g ref="char:EOLhyphen"/>ſon,</hi> Miniſter of St. <hi>Matthew</hi>'s <hi>Friday-ſhreet,</hi> about Four of the Clock in the Afternoon; when the Re<g ref="char:EOLhyphen"/>verend Doctor told me, what a fatigue he and one Mr. <hi>Peirce,</hi> Lecturer of <hi>Hammerſmith,</hi> had with her at <hi>Hammerſmith</hi> ſoon after <hi>Chriſtmas</hi> laſt, watching one whole Night with her to reſcue her from Mr. <hi>Tho<g ref="char:EOLhyphen"/>mas,</hi> who (as ſhe with ſome extraordinary Paſſion told them) was to fetch her away that Night about twelve of the Clock: During which time, the Doctor ſaw the bottom of an Earthen-plate (which ſhe held then in her hand) fall out all at once, to his no ſmall Admiration; but ſince he believes it
+<pb n="16" facs="tcp:100218:11"/>
+was cracked before: And likewiſe he then received a Needle from her, which he could not any way diſcover, but that it was given to her by an inviſi<g ref="char:EOLhyphen"/>ble Hand.</p>
+               <p>
+                  <hi>Saturday</hi> the 26th, was the fourth and laſt time time I ſaw her in that diſguiſe; when after ſome more than ordinary ſharp diſcourſe with her, mixed with Reproof to her Devil, and Objurgations to her ſelf, ſhe fell into ſuch a furious and raving Convul<g ref="char:EOLhyphen"/>ſion, that her Teeth were ſo faſt ſet, that no En<g ref="char:EOLhyphen"/>deavours could open them: During all which time, ſhe perſonated the Devil ſpeaking in her by a ſhrill, hollow, counterfeit Voice; ſaying, <hi>She is mine, ſhe is mine, and hath been ſo twelve Weeks to day about three of the Clock; and you did not ſee me come in, and you ſhall not ſee me go out, for all your deſign on</hi> Monday <hi>or</hi> Tueſday <hi>next:</hi> To whom it was anſwered, <hi>She is a Servant of Chriſt Jeſus, and was baptized into him, and therein that ſhe had renounced the World, the Fleſh, and the Devil; and that ſhe had likewiſe ſubſcribed a Paper to that purpoſe.</hi> To which her Devil replyed, <hi>That was your doing: And I was in her Heart: And you are Drunk with Sack. Satan, or what<g ref="char:EOLhyphen"/>ever thou art, thou art a Lyar,</hi> ſaid I, <hi>and the Fa<g ref="char:EOLhyphen"/>ther of Lyes; I have not drank to day: And as the Apoſtle ſaith,</hi> This cannot be, ſince 'tis but the third Hour of the Day. To which her Devil replyed, <hi>A Man might be drunk the firſt Hour.</hi> She now confeſſeth, <hi>That all this was from her own wicked Heart, and to get Money, by moving People's Pity.</hi> For ſhe had arrived to that de<g ref="char:EOLhyphen"/>gree
+<pb n="17" facs="tcp:100218:11"/>
+of Deluſion, that it may be ſaid of her, as it was of the Boy of <hi>Bilſon,</hi> That ſhe was unwilling to be undevil'd. But during this laſt Scene of her Impoſture, it was Judiciouſly obſerved by ſome, that when ſhe came to pronounce her Lip-Letters, ſhe did it with that care and tenderneſs, as if ſhe foreſaw the danger of being diſcovered thereby, as indeed in ſome meaſure ſhe was; for,</p>
+               <p>On <hi>Monday</hi> following, many of the Spectators then preſent, by Appointment met at <hi>Hamlyn</hi>'s Coffee-Houſe, near the <hi>Exchange,</hi> about Six in the Evening: Where was a very ingenious Conference: And by comparing Obſervations, the Cheat came to be more than ſuſpected. In which Conference there happened to be a very Judicious, Learned, and Sagacious Gentleman, of an excellent Temper, whom, by Enquiry, I found to be a Diſſenting Mi<g ref="char:EOLhyphen"/>niſter, <hi>Heu talis cum ſit, utinam noſter erat!</hi> to whom the Diſcovery of this Impoſtor, doth in no ſmall meaſure owe it ſelf.</p>
+               <p>About this time, the Reverend and Worthy Di<g ref="char:EOLhyphen"/>vine, Mr. <hi>Wade,</hi> Miniſter of <hi>Hammerſmith,</hi> did with great Prudence, adviſe us to remove her Hus<g ref="char:EOLhyphen"/>band and Siſter from her. By doing of which, he did, and as it happened, truly conceive that we ſhould the better diſcover the Matter.</p>
+               <p>Which was accordingly done, <hi>Tueſday</hi> the 28th. of <hi>February,</hi> by removing her to the Houſe of Lieu<g ref="char:EOLhyphen"/>tenant <hi>Nathanael Barlow,</hi> near <hi>Smithfield-Bars,</hi> where the Cheat was fully found out and diſcover'd by Captain <hi>John Bonſey,</hi> and the above named Lieu<g ref="char:EOLhyphen"/>tenant <hi>Barlow,</hi> in the following manner.</p>
+               <p>
+                  <pb n="18" facs="tcp:100218:12"/>When ſhe was in one of her pretended Fits, they ſo contriv'd the matter as to have an Iron ready, red hot, which they put upon her Hand; at which ſhe, in the middle of her Fit, cry'd out, <hi>O Lord!</hi> and thereby diſco<g ref="char:EOLhyphen"/>ver'd her ſelf to be both an <hi>Impoſtor</hi> and a <hi>Notorious Lyar;</hi> for ſhe had always ſaid, <hi>That ſhe durſt not name the Name of God or Chriſt, for fear of her Friend Mr.</hi> Thomas; as alſo, that when ſhe was in her Fits, <hi>ſhe was altogether in<g ref="char:EOLhyphen"/>ſenſible of what was done or ſaid;</hi> or as ſhe expreſs'd it, <hi>during her Fits, ſhe could neither hear, ſee, nor feel.</hi> Here<g ref="char:EOLhyphen"/>upon Lieutenant <hi>Barlow</hi> threaten'd her, that if ſhe had any more Fits while ſhe ſtay'd in his Houſe, which was 24 Hours, he would burn her again with the hot Iron, and inflict more grievous Puniſhments upon her; which ſhe took into conſideration, and has not been troubled with any ſince that.</p>
+               <p>And here though her Devil left her, yet her Policy was not quite exhauſted; for finding the Cheat diſco<g ref="char:EOLhyphen"/>ver'd, ſhe procured her ſelf to be remov'd to Dr. <hi>New<g ref="char:EOLhyphen"/>ton</hi>'s, who keeps a Mad-houſe in <hi>Wood</hi>'s <hi>Cloſe,</hi> who told her ſhe was troubled with Hyſterick Fits; which ſhe laid hold of as a good Cloak, as ſhe thought, for her prece<g ref="char:EOLhyphen"/>ding Impoſture, thinking thereby to colour over the Mat<g ref="char:EOLhyphen"/>ter, and blind the World.</p>
+               <p>But this did not avail her, for ſhe was ſhortly after committed to <hi>Bridewell,</hi> near <hi>Clerkenwell-green,</hi> by the Worſhipful <hi>John Perry,</hi> 
+                  <abbr>Eſq</abbr> one of His Majeſty's Juſti<g ref="char:EOLhyphen"/>ces of the Peace for the County of <hi>Middleſex,</hi> as the fol<g ref="char:EOLhyphen"/>lowing Warrant imports; where ſhe continues in perfect Health, and hath a very good hand at the Hammer.</p>
+               <p>I muſt not here forget to relate, That a Gentleman ha<g ref="char:EOLhyphen"/>ving committed his <hi>Black,</hi> a luſty Fellow, to <hi>Bridewell,</hi> for ſome Miſdemeanour, he is appointed to knock Hemp at the next Block to hers; which has occaſion'd a ridiculous Story about Town, <hi>That though the Devil was caſt out of her, yet he lov'd her Company ſo well as to come and knock Hemp with her.</hi>
+               </p>
+               <pb n="19" facs="tcp:100218:12"/>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <dateline>Mid. <hi>ſſ.</hi>
+                        </dateline>
+                     </opener>
+                     <head>To the Governour of the Houſe of Correction, or his Deputy.</head>
+                     <p>REceive into your Cuſtody the Body of <hi>Suſanna Fowles,</hi> whom I ſend you herewith, for being a notorious <hi>Impoſtor</hi> and <hi>Cheat,</hi> falſly and wickedly pretending her ſelf to be poſſeſs'd with a <hi>Diaboli<g ref="char:EOLhyphen"/>cal Spirit,</hi> and accuſed, upon Oath, of <hi>Blaſphemouſly</hi> ſpeaking, (when the Name of our Bleſſed Saviour was mentioned by a Divine in Prayer with her) <hi>Curſe him! Curſe him!</hi> Set her to Labour, give her due Correction, and keep her until next Seſſions, to be other<g ref="char:EOLhyphen"/>wiſe dealt withal, as the Court ſhall then direct; and this ſhall be your Warrant.</p>
+                     <closer>
+                        <dateline>Given under my Hand and Seal, <date>the 8th. Day of <hi>March,</hi> 1697/8.</date>
+                        </dateline> 
+                        <signed>John Perry.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>
+                  <pb n="20" facs="tcp:100218:13"/>
+                  <hi>After her Commitment, ſhe was often attended by me, and a great Number of other People, and frequently importun'd to diſcover who put her upon this wicked Undertaking; which ſhe at firſt did by way of Evaſion, but at laſt, on the 18th. Inſtant, in the preſence of many, made and ſign'd this following.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="confession">
+                           <opener>
+                              <dateline>
+                                 <date>
+                                    <hi>March</hi> the 18th. 1697/8.</date>
+                              </dateline>
+                           </opener>
+                           <head>The Confeſſion of <hi>Suſanna Fowles,</hi> Wife of <hi>John Fowles,</hi> of <hi>Ham<g ref="char:EOLhyphen"/>merſmith,</hi> near <hi>Chiſwick.</hi>
+                           </head>
+                           <p>
+                              <hi>SUſanna Fowles,</hi> the Wife of <hi>John Fowles,</hi> declares and confeſſes, That ſhe the ſaid <hi>Suſanna,</hi> to the great Diſhonour of God Almighty, and the Scandal of the Proteſtant Religion, about the beginning of <hi>December</hi> laſt paſt, upon ſome Diſcontent ariſing be<g ref="char:EOLhyphen"/>tween her ſelf and Husband, and his Rela<g ref="char:EOLhyphen"/>tions, ſome time after her Marriage to him, upon pretended Fits of Melancholy, did moſt wickedly perſonate the Devil ſpeaking in her, and from her, by ſhutting her Teeth, and ſpeaking through them by a ſhrill hol<g ref="char:EOLhyphen"/>low Voice, ſaying, <hi>She is mine, She is mine,</hi> and blaſpheming and curſing at the Name of <hi>Jeſus</hi> in Prayers, and at other times; telling
+<pb n="21" facs="tcp:100218:13"/>
+the Miniſter, <hi>It is more than you can do, to caſt me out; for ſhe is mine, and has been ſo theſe Twelve Weeks; and you did not ſee me go in, nor ſhall not ſee me go out.</hi> And ſometimes, as in the time of Prayer, when the Name of <hi>Jeſus,</hi> or our Bleſſed Saviour was men<g ref="char:EOLhyphen"/>tioned, ſhe, the ſaid <hi>Suſanna Fowles,</hi> imme<g ref="char:EOLhyphen"/>diately reply'd, <hi>Curſe him! Curſe him!</hi> And being ask'd <hi>how ſhe came to pronounce thoſe hor<g ref="char:EOLhyphen"/>rid Curſes;</hi> ſhe ſaid, <hi>the Evil thing, or he within her, bid her do ſo.</hi> Being alſo ask'd <hi>for what Reaſon ſhe feigned or diſſembled this Voice, to per<g ref="char:EOLhyphen"/>ſonate the Devil;</hi> ſhe anſwer'd, <hi>ſhe did ſo for no other deſign but to get Money.</hi> For which, ſhe owns her ſelf to be an Impoſtor.</p>
+                           <p>
+                              <hi>Suſanna Fowles</hi> further acknowledgeth and confeſſeth, That all ſhe did, by perſonating the Devil ſpeaking from within her, was by ill Advice from others; and the firſt that perſwaded her to ſay or feign that ſhe was poſſeſs'd by an Evil Spirit, ſhe ſays, was a Relation, one <hi>Mary Freeman,</hi> who lived in <hi>Bloomsbury,</hi> and whom ſhe believed to be a Roman Catholick. And alſo, ſhe ſays, ſhe was further encouraged hereunto by one <hi>Jor<g ref="char:EOLhyphen"/>dan,</hi> a Gardener, a pretended Doctor, of
+<pb n="22" facs="tcp:100218:14"/>
+                              <hi>Brentford,</hi> who gave her divers Spells, and had her in hand about a Month: That he alſo gave her a Spell or Charm in writing, which, by his order, ſhe wore about her Neck, which when Mr. <hi>Howſon</hi> the Miniſter open'd, he found to be a Prayer uſed by the Romiſh Prieſts, in their Exorciſing Service, with divers Croſſes about it; and the afore<g ref="char:EOLhyphen"/>ſaid pretended Doctor bade both her and her Husband croſs themſelves on the Forehead and Breaſt, which ſhe ſays ſhe did, upon his ſaying that then the Devil would have no power of them. For all which, ſhe ſays, ſhe is heartily ſorry, and begs Pardon of God, and Forgiveneſs of his Miniſters, and other Chriſtians that aſſiſted in Prayers for her.</p>
+                           <p>She alſo further ſaith, That a Man came to her Husband, and told him, that there was a <hi>Portugueſe</hi> in <hi>Lincolns-Inn Fields</hi> that could cure her: And the alſo adds, That on <hi>Monday, February</hi> the 21ſt. an Ancient Gentlewoman came to her in <hi>Rotten Row,</hi> and told her, that if ſhe would admit ſome of thoſe People that wear hair Jackets, and go bare-foot, they would put her in the
+<pb n="23" facs="tcp:100218:14"/>
+middle, and pray round her, and reſtore her to her right Mind.</p>
+                           <p>She alſo further acknowledgeth, That a Shooemaker, an Acquaintance of her Hus<g ref="char:EOLhyphen"/>band's, in <hi>Hammerſmith.</hi> adviſed her to go to the Prieſts belonging to the <hi>Portugueſe</hi> Em<g ref="char:EOLhyphen"/>baſſador, for they were good Men, and they would cure her. In Acknowledgment of the Truth of all which, the ſaid <hi>Suſanna Fowles</hi> hath hereto ſet her Hand.</p>
+                           <closer>
+                              <signed>
+                                 <hi>Suſanna Fowles.</hi> In the Preſence of
+<list>
+                                    <item>
+                                       <hi>Robert Howſon,</hi> Cl.</item>
+                                    <item>Capt. <hi>Jo. Bonſey.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Nicholas Wade.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>John Cave.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Samuel Carter Ro<g ref="char:EOLhyphen"/>cheſter.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>John Blood.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Ezekiel Fuller,</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Joſeph Evans.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>Thomas Wood.</hi>
+                                    </item>
+                                    <item>
+                                       <hi>William Pearſon.</hi>
+                                    </item>
+                                    <item>Lieut. <hi>Nathanael Barlow.</hi>
+                                    </item>
+                                 </list>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Obſerve, That on the 12th. of <hi>March</hi> ſhe did confeſs much to the ſame purpoſe before the Wor<g ref="char:EOLhyphen"/>ſhipful Mr. Juſtice <hi>Smith,</hi> and ſeveral Divines there preſent: As likewiſe that on Monday, the 21ſt. ſhe writ and ſigned with her own Hand a Paper, where<g ref="char:EOLhyphen"/>in is repeated what ſhe had confeſſed before con<g ref="char:EOLhyphen"/>cerning <hi>Jordan,</hi> with this further Addition, That he gave her ſomething in a Bottle, as alſo ſome
+<pb n="24" facs="tcp:100218:15"/>
+Pills, and told her, that they would make <hi>her Vo<g ref="char:EOLhyphen"/>mit Pins and Needles:</hi> And afterwards gave her more things, which he told her would <hi>kill the Live Thing within her,</hi> for he perſwaded her ſhe had a live Puppy within her. In the ſame Paper ſhe likewiſe ſays, That a certain hopping Fellow (as ſhe expreſs'd it) whoſe Name ſhe does not know, a pretended Doctor likewiſe, living at the <hi>Golden Ball</hi> in <hi>Fetter-lane,</hi> told her, that ſhe was poſſeſs'd with an Evil Spirit, and <hi>Caſt a Figure for her,</hi> as ſhe ſays, and told her, if ſhe would come to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> he would caſt the Devil out of her, but that it could not be done except ſhe came to <hi>London,</hi> and then ſhe would be well preſently. This Paper is now in the hands of <hi>John Pero,</hi> the Bookſeller hereof, where any one that deſires it, may ſee it.</p>
+               <p>Thus have you heard the Relation of an Impo<g ref="char:EOLhyphen"/>ſture, carried on with that cunning Contrivance for ſome Months, that it impoſed upon the Saga<g ref="char:EOLhyphen"/>city of a great many very Learned and Judicious Men; and I leave the World to Judge, whether (all Circumſtances conſidered) it could be manag'd by one Perſon alone, without the Aſſiſtance and Knowledge of her Husband and Siſter, who were conſtantly with her.</p>
+               <p rend="italic">She is now in <hi>Bridewell,</hi> near <hi>Clerkenwell-Green,</hi> beating Hemp, where ſhe muſt continue till the next Seſſion, and take her Tryal for <hi>Blaſ<g ref="char:EOLhyphen"/>phemy</hi> and <hi>Impoſture,</hi> purſuant to the War<g ref="char:EOLhyphen"/>rant of her Commitment.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100218:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
